@@ -1,0 +1,5 @@
+## Nornir Defaults File
+---
+platform: ios
+username: leodo
+password: leopass

@@ -1,0 +1,12 @@
+## Nornir Groups File
+---
+Internet:
+  data:
+    ntp:
+      servers:
+        - 8.8.8.8
+Core:
+  data:
+    ntp:
+      servers:
+        - 4.4.4.4
